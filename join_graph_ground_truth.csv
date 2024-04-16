@@ -1,0 +1,21 @@
+dataset,column_1, column_2,viability
+California Public Schools,absenteeism.csv.School Name,cast_ca2023entities_csv.csv.School Name,1
+California Public Schools,absenteeism.csv.County Name,cast_ca2023entities_csv.csv,0
+California Public Schools,absenteeism.csv.School Name,cast_ca2023entities_csv.csv.School Name,1
+California Public Schools,absenteeism.csv.County Name,cast_ca2023entities_csv.csv.County Name,0
+Covid 19 Statistics,country_vaccinations.csv.country,global_covid19_mortality_rates.csv.Country,1
+US Cities,us-cities-demographics-csv.csv.State Code,uscities.csv.state_id,1
+US Cities,us-cities-demographics-csv.csv.State,uscities.csv.state_name,1
+Chicago Public Schools,Chicago Public Schools - School Profile Information SY2223.csv.cps_school_profile,Chicago Public Schools - School Progress Reports SY2223.csv.cps_school_profile,1
+Chicago Public Schools,Chicago Public Schools - School Profile Information SY2223.csv.primary_category,Chicago Public Schools - School Progress Reports SY2223.csv.primary_category,1
+Chicago Public Schools,Chicago Public Schools - School Profile Information SY2223.csv.phone,Chicago Public Schools - School Progress Reports SY2223.csv.phone,1
+Chicago Public Schools,Chicago Public Schools - School Profile Information SY2223.csv.short_name,Chicago Public Schools - School Progress Reports SY2223.csv.short_name,1
+Chicago Public Schools,Chicago Public Schools - School Profile Information SY2223.csv.city,Chicago Public Schools - School Progress Reports SY2223.csv.city,0
+Chicago Public Schools,Chicago Public Schools - School Profile Information SY2223.csv.long_name,Chicago Public Schools - School Progress Reports SY2223.csv.long_name,1
+Chicago Public Schools,Chicago Public Schools - School Profile Information SY2223.csv.website,Chicago Public Schools - School Progress Reports SY2223.csv.website,1
+Chicago Public Schools,Chicago Public Schools - School Profile Information SY2223.csv.address,Chicago Public Schools - School Progress Reports SY2223.csv.address,1
+Chicago Public Schools,Chicago Public Schools - School Profile Information SY2223.csv.fax,Chicago Public Schools - School Progress Reports SY2223.csv.fax,1
+Chicago Public Schools,Chicago Public Schools - School Profile Information SY2223.csv.state,Chicago Public Schools - School Progress Reports SY2223.csv.state,0
+US Cities,us-cities-demographics-csv.csv.State,uscities.csv.state_id,0
+US Cities,uscities.csv.State,cbsafactbook2022.csv.Core Based Statistical Area (CBSA),0
+Covid 19 Statistics,uscities.csv.city,cbsafactbook2022.csv.Core Based Statistical Area (CBSA),1

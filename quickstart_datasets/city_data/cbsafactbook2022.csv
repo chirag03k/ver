@@ -1,6 +1,4 @@
-﻿"Air Quality Statistics by City, 2022",,,,,,,,,,,
-"Note: The values shown are the highest among the sites in each area. Data from exceptional events are included.  This summary is not adequate in itself to numerically rank CBSAs according to their air quality.  The monitoring data represent the quality of air in the vicinity of the monitoring site and, for some pollutants, may not necessarily represent urban-wide air quality.  Based on data from AQS as of May 2, 2023.",,,,,,,,,,,
-Core Based Statistical Area (CBSA),2010 Population,CBSA Code,CO           8-hr (ppm),Pb          3-mo (µg/m3),NO2      AM (ppb),NO2          1-hr (ppb),O3            8-hr (ppm),PM10         24-hr (µg/m3) ,PM2.5         Wtd AM (µg/m3) ,PM2.5         24-hr (µg/m3) ,SO2         1-hr (ppb)
+﻿Core Based Statistical Area (CBSA),2010 Population,CBSA Code,CO           8-hr (ppm),Pb          3-mo (µg/m3),NO2      AM (ppb),NO2          1-hr (ppb),O3            8-hr (ppm),PM10         24-hr (µg/m3) ,PM2.5         Wtd AM (µg/m3) ,PM2.5         24-hr (µg/m3) ,SO2         1-hr (ppb)
 "Aberdeen, SD",40602,10100,ND,ND,ND,ND,ND,106,4.2,15,ND
 "Aberdeen, WA",72797,10140,ND,ND,ND,ND,ND,ND,IN,IN,ND
 "Ada, OK",37492,10220,ND,ND,ND,ND,ND,45,ND,ND,ND

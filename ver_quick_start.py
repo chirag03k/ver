@@ -24,10 +24,10 @@ qbe = QueryByExample(api)
 """
 Specify an example query
 """
+"""
+"""
 example_columns = [
-    ExampleColumn(attr='school_name', examples=["Ogden International High School", "University of Chicago - Woodlawn"]),
-    ExampleColumn(attr='school type', examples=["Charter", "Neighborhood"]),
-    ExampleColumn(attr='level', examples=["Level 1", "Level 2+"])
+    ExampleColumn(attr='Album_name', examples=['1989 (Taylor\'s Version)', 'Evermore']),
 ]
 
 """

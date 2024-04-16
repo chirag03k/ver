@@ -1,0 +1,247 @@
+,album_id,album_name,id,track_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+0,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],4WUepByoeqcedHoYhSNHRt,Welcome To New York (Taylor's Version),0.757,0.61,7,-4.84,1,0.0327,0.00942,3.66e-05,0.367,0.685,116.998
+1,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],0108kcWLnn2HlH2kedi1gn,Blank Space (Taylor's Version),0.733,0.733,0,-5.376,1,0.067,0.0885,0.0,0.168,0.701,96.057
+2,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],3Vpk1hfMAQme8VJ0SNRSkd,Style (Taylor's Version),0.511,0.822,11,-4.785,0,0.0397,0.000421,0.0197,0.0899,0.305,94.868
+3,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],1OcSfkeCg9hRC2sFKB4IMJ,Out Of The Woods (Taylor's Version),0.545,0.885,0,-5.968,1,0.0447,0.000537,5.59e-05,0.385,0.206,92.021
+4,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],2k0ZEeAqzvYMcx9Qt5aClQ,All You Had To Do Was Stay (Taylor's Version),0.588,0.721,0,-5.579,1,0.0317,0.000656,0.0,0.131,0.52,96.997
+5,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],50yNTF0Od55qnHLxYsA5Pw,Shake It Off (Taylor's Version),0.636,0.808,7,-5.693,1,0.0729,0.0121,2.18e-05,0.359,0.917,160.058
+6,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],3FxJDucHWdw6caWTKO5b23,I Wish You Would (Taylor's Version),0.67,0.858,0,-6.528,1,0.0439,0.00354,1.25e-05,0.0687,0.539,118.009
+7,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],7oZONwFiFIErZcXAtTu7FY,Bad Blood (Taylor's Version),0.618,0.683,7,-6.438,1,0.194,0.0362,0.0,0.305,0.363,169.971
+8,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],27exgla7YBw9DUNNcTIpjy,Wildest Dreams (Taylor's Version),0.589,0.674,8,-7.48,1,0.0656,0.0436,7.18e-05,0.112,0.514,139.985
+9,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],733OhaXQIHY7BKtY3vnSkn,How You Get The Girl (Taylor's Version),0.758,0.691,5,-5.798,1,0.0515,0.00196,1.09e-05,0.0939,0.538,119.997
+10,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],4WBEj8TeGtRPNJdOmT3WJW,This Love (Taylor’s Version),0.471,0.509,1,-8.796,0,0.0355,0.316,0.0,0.0673,0.0567,144.071
+11,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],1ULabO0PEsdJekqVH6G10G,I Know Places (Taylor's Version),0.582,0.788,0,-5.358,1,0.0445,0.0999,0.0,0.115,0.652,160.027
+12,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],0lKUBmEyQfzsQHozyeXzES,Clean (Taylor's Version),0.772,0.391,4,-8.892,1,0.0293,0.25,2.92e-05,0.0981,0.258,103.955
+13,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],6HRsJu8vcnzYDN4t0570FY,Wonderland (Taylor's Version),0.464,0.705,3,-5.97,1,0.0434,0.00976,2.61e-05,0.209,0.385,183.892
+14,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],0TyGh27YQ5LknmiDhCzJiT,You Are In Love (Taylor's Version),0.363,0.498,9,-9.473,1,0.0755,0.61,3.91e-06,0.112,0.477,84.68
+15,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],5M787RexsAiVYjQusM98CV,New Romantics (Taylor's Version),0.649,0.846,5,-5.958,1,0.0602,0.00675,4.63e-06,0.0824,0.698,121.978
+16,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],0CD7DzeCsuPJygddqlUVYa,"""Slut!"" (Taylor's Version) (From The Vault)",0.591,0.412,2,-13.27,1,0.0863,0.309,0.000199,0.0608,0.328,155.875
+17,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],3CCRVu4F91Qp2mnGjmWBrf,Say Don't Go (Taylor's Version) (From The Vault),0.633,0.551,4,-8.297,1,0.0341,0.066,9.94e-06,0.127,0.164,109.95
+18,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],5QUIK7ZtziW8kGWo8RqopF,Now That We Don't Talk (Taylor's Version) (From The Vault),0.8,0.501,0,-9.332,1,0.034,0.16,7.14e-05,0.0874,0.0831,110.013
+19,1o59UpKw81iHR0HPiSkJR0,1989 (Taylor's Version) [Deluxe],6M9ppdfFjR1AbpUl3Y8DcV,Suburban Legends (Taylor's Version) (From The Vault),0.701,0.625,0,-8.804,1,0.036,0.207,0.0,0.105,0.323,118.036
+20,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),7G0gBu6nLdhFDPRLc0HdDG,Mine (Taylor's Version),0.646,0.783,7,-2.846,1,0.0356,0.00444,1.38e-06,0.171,0.49,121.08
+21,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),3MytWN8L7shNYzGl4tAKRp,Sparks Fly (Taylor’s Version),0.588,0.758,5,-2.347,1,0.0305,0.0251,0.0,0.131,0.387,114.991
+22,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),79uDOz0zuuWS7HWxzMmTa2,Back To December (Taylor's Version),0.497,0.635,2,-3.927,1,0.0273,0.00621,0.0,0.117,0.203,142.063
+23,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),5xXqyjLicvEpch72qEryFT,Speak Now (Taylor's Version),0.727,0.677,7,-2.871,1,0.0325,0.248,0.0,0.143,0.639,118.995
+24,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),1zU8j1x3yi9xalMF96pzKp,Dear John (Taylor's Version),0.419,0.47,4,-5.016,1,0.0296,0.0236,0.0,0.163,0.133,119.294
+25,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),30Y4CV7A6YqtQtTTo7Ue4j,Mean (Taylor's Version),0.524,0.692,4,-3.866,1,0.0369,0.311,0.0,0.192,0.621,163.874
+26,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),6dTA6y0C2ReQklntzZl8l3,The Story Of Us (Taylor's Version),0.515,0.781,4,-2.608,1,0.0535,0.00192,0.0,0.054,0.57,139.846
+27,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),2EFZ9emtKWEglWUQGEQ3P9,Never Grow Up (Taylor's Version),0.685,0.323,2,-7.103,1,0.0289,0.851,0.0,0.198,0.569,125.058
+28,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),3sW3oSbzsfecv9XoUdGs7h,Enchanted (Taylor's Version),0.505,0.532,8,-3.526,1,0.0265,0.012,0.0,0.149,0.216,81.907
+29,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),0NwGC0v03ysCYINtg6ns58,Better Than Revenge (Taylor's Version),0.496,0.885,11,-2.969,0,0.0803,0.000886,0.0,0.191,0.665,145.863
+30,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),12nBPF4Rh4XLFJV0YLN7uj,Innocent (Taylor's Version),0.522,0.598,1,-5.327,0,0.0284,0.101,0.0,0.152,0.149,133.627
+31,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),4tMzIAFTFdqGBQLdfbPces,Haunted (Taylor's Version),0.427,0.915,5,-1.909,1,0.0619,0.00667,0.0,0.221,0.355,162.201
+32,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),59KOoHFcw5XfICnO57holu,Last Kiss (Taylor's Version),0.55,0.366,10,-8.46,1,0.0276,0.447,4.43e-06,0.101,0.16,79.401
+33,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),4hqJ4bSlYJOXb6Z4SRmzxs,Long Live (Taylor's Version),0.375,0.65,0,-4.031,1,0.0402,0.0122,0.0,0.189,0.0752,203.89
+34,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),3yNJkriPzWjkkDAWHIAVUq,Ours (Taylor’s Version),0.535,0.488,0,-8.261,1,0.0278,0.449,0.0,0.111,0.348,159.813
+35,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),4evLyY5Ue1Wesc61t2KXAU,Superman (Taylor’s Version),0.533,0.742,7,-3.473,1,0.0303,0.0031,0.0,0.108,0.356,131.93
+36,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),4e3ZNTAV6PCrdYMUrUlMpQ,Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),0.547,0.855,7,-4.7,1,0.0597,0.0164,0.0,0.144,0.282,131.073
+37,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),0zo975x58DlXbZllWvfYhg,When Emma Falls in Love (Taylor’s Version) (From The Vault),0.474,0.763,2,-4.632,1,0.0505,0.159,0.0,0.138,0.231,78.133
+38,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),5kHMfzgLZP95O9NBy0ku4v,I Can See You (Taylor’s Version) (From The Vault),0.694,0.764,6,-4.893,1,0.0337,0.0586,0.0,0.0608,0.819,123.044
+39,5AEDGbliTTfjOB8TSm1sxt,Speak Now (Taylor's Version),4ABYxlb92WBIjHu7TIKmml,Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),0.576,0.57,7,-7.925,1,0.0434,0.362,0.0,0.0668,0.378,147.803
+40,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),24emu3sabKISjRkrys28jq,Lavender Haze,0.735,0.454,7,-10.516,0,0.0876,0.236,0.00113,0.133,0.0751,97.043
+41,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),6qxvy9Pe4RJIq5JBVbbwbS,Maroon,0.65,0.397,7,-8.237,1,0.0365,0.0609,1.4e-06,0.089,0.0382,108.055
+42,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),5qIHFdkW6phMsTZlN2g8Lc,Anti-Hero,0.637,0.649,4,-6.59,1,0.0584,0.115,1.22e-06,0.147,0.497,96.935
+43,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),7GA86Uo2jYbj8vIXe2nyWd,Snow On The Beach (feat. Lana Del Rey),0.653,0.331,9,-13.534,1,0.039,0.705,0.0013,0.116,0.166,110.014
+44,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),6PQOU00xWNrGwCZzboriXy,"You're On Your Own, Kid",0.694,0.386,2,-10.312,1,0.0597,0.423,1.05e-05,0.126,0.39,120.044
+45,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),4eKMqf9ZMSclDX7V9Ptg7x,Midnight Rain,0.654,0.372,0,-11.704,1,0.0667,0.705,6.78e-05,0.114,0.198,140.15
+46,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),7oomkQSYf1ia2VnVEWfFIU,Question...?,0.741,0.509,7,-8.747,1,0.19,0.205,0.0,0.262,0.113,108.978
+47,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),0GKDhq6ZbmSbRHd3eyGlB7,Vigilante Shit,0.867,0.272,4,-11.014,0,0.363,0.157,3.42e-05,0.118,0.157,79.962
+48,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),0VpF6RLdCfPIeYRwMu4tZK,Bejeweled,0.695,0.546,7,-9.184,1,0.066,0.0648,0.000128,0.0883,0.425,164.0
+49,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),4bBDkw2KBMX0tcgAaXC83Q,Labyrinth,0.493,0.308,0,-15.489,1,0.0436,0.804,0.328,0.123,0.13,109.993
+50,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),45R112Jz5hQeKgITXgSXzs,Karma,0.647,0.614,8,-7.091,1,0.0651,0.0782,0.0,0.611,0.0956,90.034
+51,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),2L09RYwH5Pjzca6PmbUAw3,Sweet Nothing,0.335,0.166,0,-14.958,1,0.048,0.967,0.00012,0.115,0.391,175.917
+52,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),1QQii3pa5m8MEda0nbkjfw,Mastermind,0.661,0.345,4,-14.037,1,0.144,0.545,0.000915,0.0871,0.126,125.977
+53,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),2VuqMjgoKaOHNM8HpxtXKx,The Great War,0.573,0.737,5,-9.002,1,0.0352,0.203,2.78e-05,0.0851,0.592,96.009
+54,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),71CBDRKmF2VeRKYMG1DFBh,Bigger Than The Whole Sky,0.48,0.22,6,-12.469,1,0.0425,0.837,0.00269,0.116,0.0633,82.951
+55,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),5tWxKWq1DSP1s9WQ5PWuqu,Paris,0.691,0.498,7,-10.519,1,0.101,0.116,3.07e-05,0.136,0.454,110.963
+56,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),1SztNGCwEHJEVFx90E5g7D,High Infidelity,0.564,0.545,10,-10.17,1,0.104,0.726,0.0,0.0878,0.766,176.082
+57,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),7C0w28EsX0Um2FrZs9gso2,Glitch,0.677,0.451,11,-9.744,0,0.19,0.318,0.0,0.11,0.399,140.845
+58,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),4txojlesMFQZGWxwz2EeqB,"Would've, Could've, Should've",0.482,0.837,0,-6.501,1,0.12,0.435,0.00147,0.123,0.534,157.96
+59,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),10GRRCR5fctuOF4GFmATJI,Dear Reader,0.475,0.386,0,-12.038,1,0.0737,0.497,0.00104,0.119,0.162,107.601
+60,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),6lzc0Al0zfZOIFsFvBS1ki,State Of Grace (Taylor's Version),0.594,0.713,9,-5.314,1,0.0503,0.000328,0.0,0.114,0.328,129.958
+61,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),4OAuvHryIVv4kMDNSLuPt6,Red (Taylor's Version),0.516,0.777,1,-4.908,0,0.0375,0.00108,1.62e-06,0.0761,0.408,125.047
+62,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),3S7HNKPakdwNEBFIVTL6dZ,Treacherous (Taylor's Version),0.645,0.593,2,-6.506,1,0.0288,0.0344,0.000127,0.13,0.299,109.984
+63,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),6AtZLIzUINvExIUy4QhdjP,I Knew You Were Trouble (Taylor's Version),0.584,0.557,6,-6.371,1,0.0342,0.0129,0.0,0.0576,0.767,154.008
+64,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),3nsfB1vus2qaloUdcBZvDu,All Too Well (Taylor's Version),0.44,0.528,0,-7.809,1,0.0317,0.0171,0.00203,0.234,0.132,185.972
+65,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),3yII7UwgLF6K5zW3xad3MP,22 (Taylor's Version),0.642,0.695,7,-5.62,1,0.0281,0.000443,1.02e-05,0.0753,0.642,103.984
+66,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),2r9CbjYgFhtAmcFv1cSquB,I Almost Do (Taylor's Version),0.511,0.559,4,-6.587,1,0.0264,0.0167,0.0,0.113,0.248,145.88
+67,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),5YqltLsjdqFtvqE7Nrysvs,We Are Never Ever Getting Back Together (Taylor's Version),0.567,0.686,7,-6.139,1,0.175,0.0317,1.86e-06,0.0732,0.716,172.014
+68,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),7eQj6r5PIdYKEIZjucBMcq,Stay Stay Stay (Taylor's Version),0.693,0.681,0,-7.039,1,0.025,0.0848,0.0,0.0768,0.663,100.02
+69,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),0y6kdSRCVQhSsHSpWvTUm7,The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version),0.502,0.534,2,-5.954,1,0.0278,0.0399,0.0,0.0977,0.155,94.05
+70,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),7J4b3LVCIGO4CMBDFLPoP6,Holy Ground (Taylor's Version),0.622,0.809,9,-5.623,1,0.0638,0.0288,0.00218,0.109,0.511,156.894
+71,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),73qMN9bXy7MSPwwGfH3wQr,Sad Beautiful Tragic (Taylor's Version),0.601,0.406,7,-11.827,1,0.0275,0.622,9.19e-05,0.133,0.232,130.059
+72,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),4e5ayHsOLJNLTGfjau2mEw,The Lucky One (Taylor's Version),0.686,0.571,4,-7.138,1,0.05,0.066,0.0,0.0608,0.538,117.889
+73,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),7qEUFOVcxRI19tbT68JcYK,Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),0.498,0.61,6,-5.098,1,0.0363,0.271,0.0,0.223,0.474,79.918
+74,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),7A2cNLRT0YJc1yjxHlKihs,Starlight (Taylor's Version),0.628,0.685,4,-5.864,1,0.0358,0.00324,0.0,0.18,0.605,126.014
+75,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),05GsNucq8Bngd9fnd4fRa0,Begin Again (Taylor's Version),0.519,0.527,7,-7.673,1,0.0274,0.075,0.0,0.132,0.267,78.915
+76,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),0NRHj8hDwwmSPaA41o379r,The Moment I Knew (Taylor's Version),0.636,0.402,7,-7.855,1,0.031,0.0494,0.0,0.107,0.208,125.952
+77,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),4pNApnaUWAL2J4KO2eqokq,Come Back...Be Here (Taylor's Version),0.46,0.632,4,-6.031,1,0.0302,0.0158,0.0,0.0822,0.399,79.846
+78,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),0DMVrlMUn01M0IcpDbwgu7,Girl At Home (Taylor's Version),0.691,0.736,5,-6.974,1,0.0326,0.00955,1.88e-05,0.101,0.612,125.089
+79,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),5jAIouBES8LWMiriuNq170,State Of Grace (Acoustic Version) (Taylor's Version),0.445,0.131,7,-13.778,1,0.0564,0.663,1.57e-06,0.108,0.101,208.918
+80,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),77sMIMlNaSURUAXq5coCxE,Fearless (Taylor’s Version),0.569,0.741,5,-4.963,1,0.0282,0.0122,0.0,0.333,0.43,100.118
+81,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),2nqio0SfWg6gh2eCtfuMa5,Fifteen (Taylor’s Version),0.559,0.646,7,-4.61,1,0.0272,0.116,0.0,0.32,0.289,95.466
+82,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),6YvqWjhGD8mB5QXcbcUKtx,Love Story (Taylor’s Version),0.627,0.792,2,-4.311,1,0.031,0.13,3.97e-06,0.0845,0.415,119.054
+83,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),550erGcdD9n6PnwxrvYqZT,Hey Stephen (Taylor’s Version),0.788,0.571,6,-6.135,1,0.0296,0.106,0.0,0.0934,0.797,115.99
+84,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),5YL553x8sHderRBDlm3NM3,White Horse (Taylor’s Version),0.423,0.517,0,-7.377,1,0.0486,0.369,0.0,0.177,0.366,185.262
+85,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),1qrpoAMXodY6895hGKoUpA,You Belong With Me (Taylor’s Version),0.632,0.773,6,-4.856,1,0.0346,0.0623,0.0,0.0885,0.474,130.033
+86,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),7HC7R2D8WjXVcUHJyEGjRs,Breathe (feat. Colbie Caillat) (Taylor’s Version),0.506,0.626,1,-6.066,1,0.0287,0.156,0.0,0.228,0.321,148.035
+87,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),0k0vFacOHNuArLWMiH60p7,Tell Me Why (Taylor’s Version),0.578,0.909,7,-3.669,1,0.0628,0.0222,0.0,0.333,0.541,100.023
+88,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),6iiAfo4wTA2CVC3Uwx9uh8,You’re Not Sorry (Taylor’s Version),0.506,0.444,6,-4.99,1,0.0285,0.0538,0.0,0.123,0.241,133.873
+89,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),22bPsP2jCgbLUvh82U0Z3M,The Way I Loved You (Taylor’s Version),0.402,0.732,5,-4.665,1,0.0484,0.0033,0.0,0.108,0.472,161.032
+90,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),1msEuwSBneBKpVCZQcFTsU,Forever & Always (Taylor’s Version),0.598,0.821,10,-4.433,1,0.0447,0.0231,0.0,0.143,0.673,128.03
+91,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),6ON9UuIq49xXY9GPmHIYRp,The Best Day (Taylor’s Version),0.642,0.576,1,-8.524,1,0.0282,0.488,0.0,0.159,0.469,125.0
+92,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),3ExweHKZF9B752DPQByRVT,Change (Taylor’s Version),0.499,0.815,5,-4.063,1,0.0341,0.000191,0.0,0.181,0.344,95.999
+93,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),2m3ObD945KvpE5y9A1eUWm,Jump Then Fall (Taylor’s Version),0.572,0.69,2,-6.201,1,0.0358,0.0474,0.0,0.0897,0.624,160.111
+94,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),0tQ9vBYpldCuikPsbgOVKA,Untouchable (Taylor’s Version),0.393,0.531,5,-6.112,1,0.0329,0.0181,0.0,0.169,0.224,200.391
+95,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),01QdEx6kFr78ZejhQtWR5m,Forever & Always (Piano Version) (Taylor’s Version),0.546,0.273,9,-9.208,1,0.0308,0.819,0.0,0.137,0.271,118.753
+96,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),1n2wszmJyVkw6FHqyLnQsY,Come In With The Rain (Taylor’s Version),0.476,0.564,2,-5.677,1,0.0269,0.0406,0.0,0.102,0.167,143.929
+97,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),51A8eKvvZz9uydvIZ7xRSV,Superstar (Taylor’s Version),0.454,0.555,2,-6.69,1,0.0283,0.157,0.0,0.343,0.171,171.862
+98,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),1cSFlSBdpT4F5vb1frQ231,The Other Side Of The Door (Taylor’s Version),0.432,0.873,4,-4.367,1,0.0577,0.0279,0.0,0.167,0.629,163.936
+99,4hDok0OAJd57SGIT8xuWJH,Fearless (Taylor's Version),2JoJrsEV15OzbijS47lids,Today Was A Fairytale (Taylor’s Version),0.482,0.779,7,-5.025,1,0.0409,0.0135,0.0,0.296,0.328,158.162
+100,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),2gVhfX2Gy1T9kDuS9azrF7,willow,0.392,0.574,7,-9.195,1,0.17,0.833,0.00179,0.145,0.529,81.112
+101,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),1gcyHQpBQ1lfXGdhZmWrHP,champagne problems,0.462,0.24,0,-12.077,1,0.0377,0.92,0.0,0.113,0.32,171.319
+102,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),3Dby3p1m6IOZn2gIIqECgK,gold rush,0.512,0.462,9,-10.491,1,0.0408,0.83,0.166,0.121,0.353,112.05
+103,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),6sQckd3Z8NPxVVKUnavY1F,‘tis the damn season,0.575,0.434,5,-8.193,1,0.0312,0.735,6.59e-05,0.105,0.348,145.916
+104,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),6lCvK2AR2uOKkVFCVlAzzm,tolerate it,0.316,0.361,9,-10.381,1,0.0488,0.878,2.67e-05,0.0797,0.221,74.952
+105,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),6uwfVkaOM1mcMkFmSn35ix,"no body, no crime (feat. HAIM)",0.546,0.613,7,-7.589,0,0.0264,0.418,0.0,0.103,0.535,79.015
+106,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),55Vf4bimc1Rtfg0PAQRAo2,happiness,0.559,0.334,11,-10.733,1,0.0376,0.87,0.0,0.114,0.211,122.079
+107,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),66tOfHVH3aUrscg8vExRV4,dorothea,0.605,0.488,4,-8.322,1,0.0264,0.696,0.0,0.129,0.354,119.966
+108,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),2awNGIJHodfLZSClB3PYhz,coney island (feat. The National),0.537,0.537,8,-11.266,1,0.0617,0.819,0.000904,0.142,0.292,107.895
+109,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),43Ykum9T72UOPhBN31grpN,ivy,0.515,0.545,2,-9.277,1,0.0353,0.855,1.97e-05,0.0921,0.535,88.856
+110,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),52OkpDsU6MmPx1AwGOb6Ap,cowboy like me,0.604,0.517,0,-9.014,1,0.0347,0.768,0.000155,0.123,0.511,127.967
+111,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),5VYWxXUpxuxEmCqMLDqICo,long story short,0.546,0.73,0,-7.704,1,0.0417,0.66,0.179,0.0972,0.573,157.895
+112,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),5uICWmZTLkpEVbK22PBP6e,marjorie,0.535,0.561,5,-11.609,1,0.0484,0.876,0.000136,0.115,0.287,96.103
+113,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),6a8aUhYbaQBUI8PcJ5ZmQ6,closure,0.689,0.704,9,-10.813,1,0.245,0.835,4.83e-06,0.134,0.92,151.884
+114,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),6Wlq9rqkxrqj5Kls4Kw14H,evermore (feat. Bon Iver),0.39,0.27,1,-10.673,1,0.0308,0.937,0.00227,0.111,0.32,125.177
+115,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),3zwMVvkBe2qIKDObWgXw4N,right where you left me - bonus track,0.581,0.619,10,-6.524,1,0.0282,0.769,0.000106,0.117,0.645,137.915
+116,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),1kdWw77ZpYOkhxeuhzU1j6,it’s time to go - bonus track,0.592,0.41,0,-12.426,1,0.0397,0.801,1.39e-05,0.09,0.416,151.923
+117,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],0P9wLFurlgumLXuqFEpw52,the 1,0.78,0.361,0,-6.942,1,0.048,0.75,7.14e-06,0.108,0.163,139.902
+118,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],7zcnlq38eqNWyUF6eNaB5Z,cardigan,0.612,0.58,0,-8.572,0,0.0419,0.525,0.000414,0.26,0.534,130.045
+119,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],4ojxSyrEraN7d46BMBPThZ,the last great american dynasty,0.688,0.653,7,-8.558,1,0.0403,0.481,0.00414,0.106,0.701,147.991
+120,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],6kz2hkq1xQvDqPcUyBkw8f,exile (feat. Bon Iver),0.31,0.374,6,-8.464,1,0.0275,0.761,2.46e-05,0.11,0.16,75.938
+121,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],0Oju1YcbPCJuUQQWoZNdJK,my tears ricochet,0.456,0.265,0,-10.663,1,0.0328,0.814,0.0,0.0679,0.112,129.947
+122,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],5jQyGzcwqAxwT5QUIMivoX,mirrorball,0.549,0.417,7,-10.064,1,0.035,0.686,1.9e-06,0.0604,0.347,110.137
+123,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2vJ7QvyCiR4DaHxwO58izA,seven,0.602,0.494,4,-10.813,1,0.0277,0.888,2.59e-05,0.0902,0.374,94.955
+124,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],1UHoF9p75IVsvUt6WdTYhn,august,0.387,0.634,5,-9.222,1,0.0363,0.553,6.93e-05,0.0931,0.42,89.567
+125,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],5DnDBYrfGoxdnomqEAkFIv,this is me trying,0.511,0.478,9,-9.837,1,0.0322,0.312,2.3e-05,0.147,0.408,135.882
+126,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],7CVTowKpGPA2MsIbkTl2oc,illicit affairs,0.529,0.304,10,-10.567,1,0.0356,0.862,0.0,0.108,0.44,119.58
+127,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],4WHIqhrbdva5vQSrCuet3l,invisible string,0.651,0.459,4,-11.128,0,0.0507,0.859,6.63e-05,0.105,0.454,83.455
+128,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],7klXN6RCN5Rj0VeYO5gBzU,mad woman,0.593,0.7,3,-9.016,1,0.0492,0.67,6.77e-06,0.116,0.451,141.898
+129,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],5MFjHn1qfR9AsWuyzJLk1z,epiphany,0.317,0.254,1,-13.679,1,0.0286,0.727,0.000326,0.0867,0.103,93.933
+130,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2jhfs6moEAK13eLM6xim4l,betty,0.595,0.376,0,-8.767,1,0.0256,0.589,0.0,0.0989,0.476,95.946
+131,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],0O9i6jhscByEJs1ipy5hu4,peace,0.644,0.284,5,-12.879,1,0.0821,0.916,1.5e-05,0.0909,0.328,150.072
+132,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],4XCYmu7QLySdIahgBALKJK,hoax,0.676,0.178,8,-15.01,1,0.0394,0.964,7.9e-06,0.135,0.404,118.84
+133,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],0zEprKYeuGOIZoHyu6O1E2,the lakes - bonus track,0.313,0.258,2,-11.532,1,0.0383,0.842,1.3e-06,0.0948,0.268,179.947
+134,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],08J4bMHbILkwSIhbtrcvjN,the 1 - the long pond studio sessions,0.708,0.25,0,-10.731,1,0.0361,0.898,0.026,0.102,0.156,139.803
+135,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],3EPgWM1zfTSzEc0z4AwWTM,cardigan - the long pond studio sessions,0.395,0.234,0,-9.704,0,0.0382,0.88,0.0,0.107,0.247,86.478
+136,0PZ7lAru5FDFHuirTkWe9Z,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],28tIMaewZuGR8urkvFhQyA,the last great american dynasty - the long pond studio sessions,0.64,0.618,7,-11.715,1,0.0379,0.743,0.004,0.0574,0.614,147.948
+137,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),4pfrrhvplbJZAIsfosGWQP,the 1,0.78,0.361,0,-6.942,1,0.048,0.75,7.14e-06,0.108,0.163,139.902
+138,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),0KRYCBwIpWYFNrXOmXbyUh,cardigan,0.612,0.58,0,-8.572,0,0.0419,0.525,0.000414,0.26,0.534,130.045
+139,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),2olxzvoFI9IpxqFeUv7WOX,the last great american dynasty,0.688,0.653,7,-8.558,1,0.0403,0.481,0.00414,0.106,0.701,147.991
+140,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),5S4aYQAJOwJMAamANWlICO,exile (feat. Bon Iver),0.31,0.374,6,-8.464,1,0.0275,0.761,2.46e-05,0.11,0.16,75.938
+141,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),5P2bHCDM2tsgIaYWsZMhu5,my tears ricochet,0.456,0.265,0,-10.663,1,0.0328,0.814,0.0,0.0679,0.112,129.947
+142,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),2I8YAEA1VmCuP1wkJHMpTw,mirrorball,0.549,0.417,7,-10.064,1,0.035,0.686,1.9e-06,0.0604,0.347,110.137
+143,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),76mOLcXOjOEhyY4mMF1l3r,seven,0.602,0.494,4,-10.813,1,0.0277,0.888,2.59e-05,0.0902,0.374,94.955
+144,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),6nK2pIKFcRc5frrZKHgsiT,august,0.387,0.634,5,-9.222,1,0.0363,0.553,6.93e-05,0.0931,0.42,89.567
+145,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),7cm50Lw03k6VvRauJtkyTj,this is me trying,0.511,0.478,9,-9.837,1,0.0322,0.312,2.3e-05,0.147,0.408,135.882
+146,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),6DrLROM5MG9bxWHeEG5elq,illicit affairs,0.529,0.304,10,-10.567,1,0.0356,0.862,0.0,0.108,0.44,119.58
+147,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),2ehRU518I0hYqMGQnk4lDY,invisible string,0.651,0.459,4,-11.128,0,0.0507,0.859,6.63e-05,0.105,0.454,83.455
+148,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),0RP1kqoSPkVXsKiQNhMKzV,mad woman,0.593,0.7,3,-9.016,1,0.0492,0.67,6.77e-06,0.116,0.451,141.898
+149,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),1EXa37LpSvi3OQ9UYQ28rD,epiphany,0.317,0.254,1,-13.679,1,0.0286,0.727,0.000326,0.0867,0.103,93.933
+150,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),3IhtE4fkytdrtEfV34UzkD,betty,0.595,0.376,0,-8.767,1,0.0256,0.589,0.0,0.0989,0.476,95.946
+151,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),6JlI8Ay77m4nJvZTHvfT1J,peace,0.644,0.284,5,-12.879,1,0.0821,0.916,1.5e-05,0.0909,0.328,150.072
+152,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),0YeDG5HnKnG7jpArkzsSPa,hoax,0.676,0.178,8,-15.01,1,0.0394,0.964,7.9e-06,0.135,0.404,118.84
+153,1pzvBxYgT6OVwJLtHkrdQK,folklore (deluxe version),0eFQWVz0qIxDOvhLpZ40P7,the lakes - bonus track,0.313,0.258,2,-11.532,1,0.0383,0.842,1.3e-06,0.0948,0.268,179.947
+154,1NAmidJlEaVgA3MpcPFYGq,Lover,43rA71bccXFGD4C8GOpIlN,I Forgot That You Existed,0.664,0.316,5,-10.345,1,0.519,0.298,2.03e-06,0.0812,0.541,92.875
+155,1NAmidJlEaVgA3MpcPFYGq,Lover,1BxfuPKGuaTgP7aM0Bbdwr,Cruel Summer,0.552,0.702,9,-5.707,1,0.157,0.117,2.06e-05,0.105,0.564,169.994
+156,1NAmidJlEaVgA3MpcPFYGq,Lover,1dGr1c8CrMLDpV6mPbImSI,Lover,0.359,0.543,7,-7.582,1,0.0919,0.492,1.58e-05,0.118,0.453,68.534
+157,1NAmidJlEaVgA3MpcPFYGq,Lover,3RauEVgRgj1IuWdJ9fDs70,The Man,0.777,0.658,0,-5.191,1,0.054,0.0767,0.0,0.0901,0.633,110.048
+158,1NAmidJlEaVgA3MpcPFYGq,Lover,3pHkh7d0lzM2AldUtz2x37,The Archer,0.292,0.574,0,-9.375,1,0.0401,0.12,0.00569,0.0663,0.166,124.344
+159,1NAmidJlEaVgA3MpcPFYGq,Lover,2YWtcWi3a83pdEg3Gif4Pd,I Think He Knows,0.897,0.366,0,-8.029,1,0.0569,0.00889,0.000353,0.0715,0.416,100.003
+160,1NAmidJlEaVgA3MpcPFYGq,Lover,214nt20w5wOxJnY462klLw,Miss Americana & The Heartbreak Prince,0.662,0.747,11,-6.926,0,0.0736,0.028,0.00615,0.138,0.487,150.088
+161,1NAmidJlEaVgA3MpcPFYGq,Lover,4y5bvROuBDPr5fuwXbIBZR,Paper Rings,0.811,0.719,9,-6.553,1,0.0497,0.0129,1.36e-05,0.0742,0.865,103.979
+162,1NAmidJlEaVgA3MpcPFYGq,Lover,12M5uqx0ZuwkpLp5rJim1a,Cornelia Street,0.824,0.624,0,-9.728,1,0.0827,0.781,0.000189,0.1,0.248,102.012
+163,1NAmidJlEaVgA3MpcPFYGq,Lover,2dgFqt3w9xIQRjhPtwNk3D,Death By A Thousand Cuts,0.712,0.732,4,-6.754,1,0.0629,0.454,0.0,0.319,0.313,94.071
+164,1NAmidJlEaVgA3MpcPFYGq,Lover,1LLXZFeAHK9R4xUramtUKw,London Boy,0.695,0.71,1,-6.639,1,0.05,0.0246,0.000104,0.133,0.557,157.925
+165,1NAmidJlEaVgA3MpcPFYGq,Lover,4AYtqFyFbX0Xkc2wtcygTr,Soon You’ll Get Better (feat. The Chicks),0.433,0.182,0,-12.566,1,0.0641,0.907,0.0,0.123,0.421,207.476
+166,1NAmidJlEaVgA3MpcPFYGq,Lover,5hQSXkFgbxjZo9uCwd11so,False God,0.739,0.32,11,-10.862,0,0.239,0.736,0.000147,0.111,0.351,79.97
+167,1NAmidJlEaVgA3MpcPFYGq,Lover,6RRNNciQGZEXnqk8SQ9yv5,You Need To Calm Down,0.771,0.671,2,-5.617,1,0.0553,0.00929,0.0,0.0637,0.714,85.026
+168,1NAmidJlEaVgA3MpcPFYGq,Lover,1SymEzIT3H8UZfibCs3TYi,Afterglow,0.756,0.449,9,-8.746,1,0.0344,0.13,0.0,0.114,0.399,111.011
+169,1NAmidJlEaVgA3MpcPFYGq,Lover,2Rk4JlNc2TPmZe2af99d45,ME! (feat. Brendon Urie of Panic! At The Disco),0.61,0.83,0,-4.105,1,0.0571,0.033,0.0,0.118,0.728,182.162
+170,1NAmidJlEaVgA3MpcPFYGq,Lover,1SmiQ65iSAbPto6gPFlBYm,It’s Nice To Have A Friend,0.737,0.175,10,-9.912,1,0.0401,0.971,0.000337,0.171,0.545,70.008
+171,1NAmidJlEaVgA3MpcPFYGq,Lover,1fzAuUVbzlhZ1lJAx9PtY6,Daylight,0.557,0.496,0,-9.602,1,0.0563,0.808,0.000173,0.0772,0.265,149.983
+172,6DEjYFkNZh67HP7R9PSZvv,reputation,2yLa0QULdQr0qAIvVwN6B5,...Ready For It?,0.613,0.764,2,-6.509,1,0.136,0.0527,0.0,0.197,0.417,160.015
+173,6DEjYFkNZh67HP7R9PSZvv,reputation,2x0WlnmfG39ZuDmstl9xfX,End Game,0.649,0.589,2,-6.237,1,0.0558,0.00845,0.0,0.108,0.151,159.073
+174,6DEjYFkNZh67HP7R9PSZvv,reputation,4svZDCRz4cJoneBpjpx8DJ,I Did Something Bad,0.696,0.602,0,-6.156,0,0.159,0.0679,2.11e-05,0.0696,0.305,82.989
+175,6DEjYFkNZh67HP7R9PSZvv,reputation,1R0a2iXumgCiFb7HEZ7gUE,Don’t Blame Me,0.615,0.534,9,-6.719,0,0.0386,0.106,1.76e-05,0.0607,0.193,135.917
+176,6DEjYFkNZh67HP7R9PSZvv,reputation,6NFyWDv5CjfwuzoCkw47Xf,Delicate,0.75,0.404,9,-10.178,0,0.0682,0.216,0.000357,0.0911,0.0499,95.045
+177,6DEjYFkNZh67HP7R9PSZvv,reputation,1P17dC1amhFzptugyAO7Il,Look What You Made Me Do,0.766,0.709,9,-6.471,0,0.123,0.204,1.41e-05,0.126,0.506,128.07
+178,6DEjYFkNZh67HP7R9PSZvv,reputation,5PxFv9yJEg9dxvbZggykro,So It Goes...,0.574,0.61,2,-7.283,1,0.0732,0.122,1.1e-06,0.13,0.374,74.957
+179,6DEjYFkNZh67HP7R9PSZvv,reputation,1ZY1PqizIl78geGM4xWlEA,Gorgeous,0.8,0.535,7,-6.684,1,0.135,0.0713,9.48e-06,0.213,0.451,92.027
+180,6DEjYFkNZh67HP7R9PSZvv,reputation,0VE4kBnHJUgtMf0dy6DRmW,Getaway Car,0.562,0.689,2,-6.745,1,0.127,0.00465,2.23e-06,0.0888,0.351,172.054
+181,6DEjYFkNZh67HP7R9PSZvv,reputation,7HuBDWi18s4aJM8UFnNheH,King Of My Heart,0.675,0.703,0,-7.902,1,0.0382,0.00882,2.21e-06,0.0391,0.314,110.01
+182,6DEjYFkNZh67HP7R9PSZvv,reputation,7I7JbDv63ZJJsSi24DyJrz,Dancing With Our Hands Tied,0.624,0.691,0,-6.686,0,0.196,0.0604,1.1e-05,0.138,0.284,160.024
+183,6DEjYFkNZh67HP7R9PSZvv,reputation,6oVxXO5oQ4pTpO8RSnkzvv,Dress,0.719,0.469,0,-8.792,1,0.0533,0.0329,0.0,0.169,0.0851,120.085
+184,6DEjYFkNZh67HP7R9PSZvv,reputation,07NxDD1iKCHbAldceD7QLP,This Is Why We Can't Have Nice Things,0.567,0.789,5,-5.986,1,0.115,0.0156,0.0,0.382,0.438,163.96
+185,6DEjYFkNZh67HP7R9PSZvv,reputation,1GwMQaZz6Au3QLDbjbMdme,Call It What You Want,0.598,0.504,9,-9.874,1,0.0731,0.186,0.000221,0.34,0.252,163.954
+186,6DEjYFkNZh67HP7R9PSZvv,reputation,7F5oktn5YOsR9eR5YsFtqb,New Year’s Day,0.661,0.151,0,-12.864,1,0.0354,0.921,0.0,0.13,0.23,94.922
+187,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,00vJzaoxM3Eja1doBUhX0P,All Too Well,0.602,0.605,0,-7.803,1,0.0244,0.0448,0.000334,0.128,0.316,93.061
+188,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,22C0JIVhFaczZ4t9heqREN,Wildest Dreams,0.55,0.688,8,-7.416,1,0.0897,0.0692,0.00144,0.106,0.465,139.997
+189,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,7APTsjmZbj7TFXQJAiRti4,The Best Day,0.669,0.448,1,-8.566,1,0.0285,0.639,4.06e-06,0.158,0.383,126.068
+190,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,4V9NuhKQcUFt4cgbynHV79,Red,0.605,0.899,1,-4.273,0,0.0423,0.0779,0.000125,0.0911,0.647,124.985
+191,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,4hCZk6WJBFQeG3P7WsyntI,Holy Ground,0.627,0.816,4,-6.698,1,0.0774,0.0162,0.00208,0.0965,0.648,157.043
+192,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,7eGeUVeCEvEQrivmjl9Qn3,Teardrops On My Guitar - Radio Single Remix,0.626,0.427,10,-6.993,1,0.0234,0.313,0.0,0.138,0.263,99.959
+193,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,7qGr3rjRhndRIpFUA5f2HJ,Our Song,0.545,0.663,2,-5.05,1,0.0363,0.114,0.0,0.321,0.565,178.013
+194,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,2P5gfMtCcKP0CkmgqFMyPg,22,0.66,0.733,7,-6.564,1,0.0379,0.00254,0.00146,0.0473,0.68,104.009
+195,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,2o2IVjuqRkR9hJxtPjtAP0,I Knew You Were Trouble.,0.536,0.464,6,-6.761,1,0.0412,0.00476,2.67e-06,0.0357,0.665,77.318
+196,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,55n9yjI6qqXh5F2mYvUc2y,I Don’t Wanna Live Forever (Fifty Shades Darker),0.731,0.445,0,-8.418,1,0.0533,0.0586,1.96e-05,0.14,0.106,117.97
+197,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,5rcHBt2aNcGFWW0jaAUe1L,Mean,0.576,0.754,4,-3.982,1,0.0428,0.451,0.0,0.223,0.79,163.886
+198,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,3aSYZ4upQ6OSNos26YeVWL,How You Get The Girl,0.765,0.656,5,-6.112,1,0.0504,0.00364,0.00868,0.0918,0.545,119.997
+199,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,41T04yafZVrjNq2FqvLtId,So It Goes...,0.574,0.61,2,-7.283,1,0.0732,0.122,1.1e-06,0.13,0.374,74.957
+200,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,0H2UD0LfSCiRr59YMGlCuS,Fifteen,0.55,0.628,7,-4.437,1,0.0269,0.0717,0.0,0.138,0.211,95.122
+201,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,6FmJKLpyCt42nP2IOVEVc2,Mine,0.621,0.779,7,-2.943,1,0.0301,0.00302,3.22e-06,0.187,0.67,121.034
+202,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,5h2sBwpUSAndjObfU3ti2r,Sparks Fly,0.61,0.782,5,-2.98,1,0.0309,0.041,0.0,0.16,0.399,114.977
+203,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,0YRGTdfmJPALpglAaraYUr,State Of Grace,0.591,0.828,4,-5.895,1,0.0333,0.000184,0.00113,0.0879,0.383,129.962
+204,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,6CB7DczrX9ZJB9Wkjegmaq,Haunted,0.431,0.949,5,-2.622,1,0.0605,0.0648,0.0,0.0612,0.37,162.012
+205,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,1UPDfqsVIZLEiZeMuUsni2,Never Grow Up,0.714,0.309,2,-8.828,1,0.0302,0.824,0.0,0.136,0.545,124.894
+206,1MPAXuTVL2Ej5x0JHiSPq8,reputation Stadium Tour Surprise Song Playlist,0r3U7SOcoj4DIEyN44Lt5z,Treacherous,0.704,0.621,2,-8.086,1,0.0334,0.101,4.3e-06,0.14,0.395,109.995
+207,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,1aBJNc2thaKyh5THWzIqHX,Sparks Fly - Live/2011,0.455,0.783,5,-5.184,1,0.0393,0.00917,0.0,0.918,0.298,114.981
+208,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,7yndkPYP6YQQLBpPsizDfh,Mine - Live/2011,0.496,0.852,7,-4.775,1,0.0373,0.00233,0.0,0.554,0.442,120.969
+209,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,72GIZuUXo14oyrS0si3Rgc,The Story Of Us - Live,0.419,0.908,9,-5.156,1,0.0651,0.00048,0.0,0.815,0.472,139.813
+210,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,7mFiEij8AXPUZB7aKLbUlQ,Mean - Live/2011,0.429,0.915,4,-4.373,1,0.069,0.154,0.0,0.693,0.432,163.752
+211,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,68QyrSzpnoU04AAhE5z8lj,Ours - Live/2011,0.421,0.355,0,-10.21,1,0.0298,0.715,0.0,0.867,0.267,77.769
+212,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,1IsquhJFJ0qcFZI7FeAEuN,Back To December/Apologize/You're Not Sorry - Live/2011/Medley,0.374,0.516,2,-8.745,1,0.0294,0.155,0.0,0.795,0.171,142.057
+213,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,6505MLhnqTDDg4tjoUz2Wp,Better Than Revenge - Live/2011,0.445,0.887,11,-5.629,0,0.0768,0.00306,2.67e-05,0.931,0.386,145.954
+214,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,3QFB14MOUf3imlyISNmrbT,Speak Now - Live/2011,0.615,0.694,7,-5.251,1,0.0318,0.0636,1.28e-06,0.83,0.373,118.876
+215,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,6hH37tyeRdyan1mAppmVor,Last Kiss - Live/2011,0.427,0.395,0,-12.551,1,0.0291,0.205,8.73e-06,0.701,0.188,79.517
+216,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,0BSmbCIY36iw04azzJ3S0S,Drops Of Jupiter - Live/2011,0.374,0.504,2,-8.407,1,0.0392,0.806,0.0,0.76,0.27,109.025
+217,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,6KF9xd2hBLuexrmBX4vUWD,Bette Davis Eyes - Live/2011,0.327,0.488,6,-9.287,1,0.0322,0.713,0.0,0.837,0.363,104.46
+218,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,4KB3zBArZ1rHRExilzycaV,I Want You Back - Live/2011,0.536,0.512,6,-6.794,1,0.0341,0.794,0.000122,0.497,0.249,97.397
+219,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,4DbI1rr4IQ2bc8nejy9ttd,Dear John - Live/2011,0.521,0.386,4,-8.784,1,0.0301,0.0157,0.0,0.884,0.138,119.518
+220,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,3lm4L3pPL32PFy74dR17OR,Enchanted - Live/2011,0.34,0.663,8,-5.597,1,0.0331,0.0747,2.34e-06,0.563,0.214,163.678
+221,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,6znB7YZhMJT2B83zfbiyLq,Haunted - Live/2011,0.338,0.818,5,-7.495,1,0.0496,0.0245,0.0,0.889,0.177,162.157
+222,6fyR4wBPwLHKcRtxgd4sGh,Speak Now World Tour Live,5QkzyLUb4ggojNDp8G2OxX,Long Live - Live/2011,0.544,0.728,7,-5.838,1,0.0282,0.0053,0.0,0.865,0.204,101.939
+223,1ycoesYxIFymXWebfmz828,Live From Clear Channel Stripped 2008,4RBKAqJ3qyvvriDG0s9IJ3,Love Story - Live From Clear Channel Stripped 2008,0.741,0.444,2,-7.031,1,0.0311,0.659,0.0,0.131,0.512,119.006
+224,1ycoesYxIFymXWebfmz828,Live From Clear Channel Stripped 2008,5g7RMU3cV7zXWH244BLe7G,Fearless - Live From Clear Channel Stripped 2008,0.623,0.266,5,-5.894,1,0.026,0.814,0.0,0.145,0.467,96.601
+225,1ycoesYxIFymXWebfmz828,Live From Clear Channel Stripped 2008,4aBW31cmkA7BLColUsMEeZ,Beautiful Eyes - Live From Clear Channel Stripped 2008,0.627,0.704,3,-3.739,1,0.0269,0.596,0.0,0.0598,0.457,98.958
+226,1ycoesYxIFymXWebfmz828,Live From Clear Channel Stripped 2008,4MbHDiHQjhmoVAV75G04Ql,Untouchable - Live From Clear Channel Stripped 2008,0.731,0.184,5,-9.235,1,0.0418,0.856,0.0,0.0927,0.331,102.404
+227,1ycoesYxIFymXWebfmz828,Live From Clear Channel Stripped 2008,4DjevQhsPWULcondN4mRh5,Teardrops On My Guitar - Live From Clear Channel Stripped 2008,0.344,0.801,10,-5.373,1,0.0574,0.664,0.0,0.106,0.615,204.489
+228,1ycoesYxIFymXWebfmz828,Live From Clear Channel Stripped 2008,7EvU9pRoJ9Xs7anx0P7tEc,Picture To Burn - Live From Clear Channel Stripped 2008,0.647,0.872,7,-1.953,1,0.0524,0.266,0.0,0.419,0.684,105.798
+229,1ycoesYxIFymXWebfmz828,Live From Clear Channel Stripped 2008,5a9hUL6ZuiagZhazwrtwHF,Should've Said No - Live From Clear Channel Stripped 2008,0.429,0.808,7,-3.004,1,0.0677,0.399,0.0,0.0884,0.438,171.537
+230,1ycoesYxIFymXWebfmz828,Live From Clear Channel Stripped 2008,69o9kr9UexjzeZDE8yD8dQ,Change - Live From Clear Channel Stripped 2008,0.243,0.712,5,-4.307,1,0.0577,0.156,0.0,0.111,0.273,202.319
+231,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,2Fn01AIMyHbha2ceNQeOqw,Tim McGraw,0.58,0.491,0,-6.462,1,0.0251,0.575,0.0,0.121,0.425,76.009
+232,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,4BYejINgfZF0qKDMEH2cim,Picture To Burn,0.658,0.877,7,-2.098,1,0.0323,0.173,0.0,0.0962,0.821,105.586
+233,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,2TF4UtYreqNbQ6Z9AccldU,Teardrops On My Guitar - Radio Single Remix,0.621,0.417,10,-6.941,1,0.0231,0.288,0.0,0.119,0.289,99.953
+234,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,1oR4MUBpyNrAViC8wPNpfm,A Place in this World,0.576,0.777,9,-2.881,1,0.0324,0.051,0.0,0.32,0.428,115.028
+235,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,569sXXQ7t0jSdqHooi2yqs,Cold As You,0.418,0.482,5,-5.769,1,0.0266,0.217,0.0,0.123,0.261,175.558
+236,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,5Tj2MqcFMf60CaGsKbM1aq,The Outside,0.589,0.805,5,-4.055,1,0.0293,0.00491,0.0,0.24,0.591,112.982
+237,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,2zzxwmoOBnXDT0KnJsoIWk,Tied Together with a Smile,0.479,0.578,2,-4.963,1,0.0294,0.525,0.0,0.0841,0.192,146.165
+238,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,41sjzdjScVwnxnxADElts6,Stay Beautiful,0.594,0.629,8,-4.919,1,0.0246,0.0868,0.0,0.137,0.504,131.597
+239,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,6CdaXOq1MWe2JHDalTG01d,Should've Said No,0.476,0.777,4,-3.771,0,0.0289,0.0103,0.0,0.196,0.472,167.964
+240,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,2O8sogKJCfVZ4rotBv1vVF,Mary's Song (Oh My My My),0.403,0.627,2,-5.28,1,0.0292,0.0177,0.0,0.182,0.374,74.9
+241,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,1j6gmK6u4WNI33lMZ8dC1s,Our Song,0.668,0.672,2,-4.931,1,0.0303,0.111,0.0,0.329,0.539,89.011
+242,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,7CzxXgQXurKZCyHz9ufbo1,I'm Only Me When I'm With You,0.563,0.934,8,-3.629,1,0.0646,0.00452,0.000807,0.103,0.518,143.964
+243,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,1k3PzDNjg38cWqOvL4M9vq,Invisible,0.612,0.394,7,-5.723,1,0.0243,0.637,0.0,0.147,0.233,96.001
+244,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,0YgHuReCSPwTXYny7isLja,A Perfectly Good Heart,0.483,0.751,4,-5.726,1,0.0365,0.00349,0.0,0.128,0.268,156.092
+245,5eyZZoQEFQWRHkV2xgAeBw,Taylor Swift,1hxLyjC9D9Jpw6EAPKqWv4,Teardrops on My Guitar - Pop Version,0.459,0.753,10,-3.827,1,0.0537,0.0402,0.0,0.0863,0.483,199.997
